@@ -7,6 +7,10 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 ## Scripts
 These scripts have been tested in a bash OSX enviroment (OSX 10.11.6).
 
+In bash, terminal colors and formatted texts can be displayed using sequences composed by the Escape character (often represented by `^[` or `<Esc>`) followed by some other characters: `<Esc>[<FORMAT_CODE>m`, where the string __<FORMAT_CODE>__ is described in the following sections. But in the bash terminal provided by OSX, the escape character can be obtained with the string `\033`. Due to that, a formatting string will be composeb with this syntax: `\033[<FORMAT_CODE>m`. For example, a bold string can be obtained with the escaped sequence `\033[1m`.
+
+A useful sequence is `[0m`, which represents the resetting sequence for both colors and formatting styles.
+
 ### Formatting codes
 Displays a list of formatting codes and their effect.
 
