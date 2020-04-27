@@ -1,8 +1,17 @@
 # bash-utils
 Tips and tricks for bash.
 
-## Scripts
-* bash-allcodes.sh
-* bash-foreground.sh
-* colors_16_and_formatting.sh
-* colors_256_and_formatting.sh
+## Sources
+https://misc.flogisoft.com/bash/tip_colors_and_formatting
+
+## Colors and formatting
+```java
+void method() {
+  this is a test method
+}
+```
+These scripts have been tested in a bash OSX enviroment (OSX 10.11.6).
+* __bash-allcodes.sh:__ shows what codes numbers have effects; 
+* __bash-foreground.sh__ 
+* __colors_16_and_formatting.sh__ displays a lot of possible combination of the attributes;
+* __256-colors.sh__ displays the 256 colors available (foreground and background);
