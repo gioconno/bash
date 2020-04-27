@@ -8,7 +8,8 @@ https://misc.flogisoft.com/bash/tip_colors_and_formatting
 ```java
 void method() {
   this is a test method
-}```
+}
+```
 These scripts have been tested in a bash OSX enviroment (OSX 10.11.6).
 * __bash-allcodes.sh:__ shows what codes numbers have effects; 
 * __bash-foreground.sh__ 
