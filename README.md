@@ -5,9 +5,8 @@ Tips and tricks for bash.
 https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
 ## Formatting codes ()
-![allcodes](./resources/allcodes.png)
-
-
+![allcodes](./resources/allcodes.png =50x50)
+<img src="./resources/allcodes.png" alt="allcodes" width="509px" height="379px" />
 ```bash
 
 # bash-allcodes.sh
