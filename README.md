@@ -4,8 +4,9 @@ Tips and tricks for bash.
 ## Sources
 https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
-## Formatting codes ()
+## Formatting codes
 <img src="./resources/allcodes.png" alt="allcodes" width="509px" height="379px" />
+
 ```bash
 
 # bash-allcodes.sh
