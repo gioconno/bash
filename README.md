@@ -54,7 +54,7 @@ exit 0
 ### 256 colors
 Displays the 256 colors available (foreground and background).
 
-<img src="./resources/colors-256.png" alt="allcodes" width="509px" height="379px" />
+<img src="./resources/colors-256.png" alt="allcodes" width="379" height="509px" />
 
 ```bash
 
