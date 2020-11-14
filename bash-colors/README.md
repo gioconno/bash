@@ -1,5 +1,5 @@
-# bash-utils
-Tips and tricks for bash.
+# bash-colors
+or: how I learned to stop worrying and love the colorized shell.
 
 ## Sources
 https://misc.flogisoft.com/bash/tip_colors_and_formatting
